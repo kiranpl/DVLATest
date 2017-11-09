@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-09T15:33:22</date>
+  <millis>1510241602905</millis>
+  <sequence>4</sequence>
+  <logger>uk.gov.dvla.FileDAO</logger>
+  <level>INFO</level>
+  <class>uk.gov.dvla.FileDAO</class>
+  <method>getFilesByType</method>
+  <thread>21</thread>
+  <message>text/csv</message>
+</record>
+<record>
+  <date>2017-11-09T15:33:22</date>
+  <millis>1510241602907</millis>
+  <sequence>5</sequence>
+  <logger>uk.gov.dvla.FileDAO</logger>
+  <level>INFO</level>
+  <class>uk.gov.dvla.FileDAO</class>
+  <method>getFilesByType</method>
+  <thread>21</thread>
+  <message>1</message>
+</record>
+</log>
