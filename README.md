@@ -9,5 +9,6 @@ This repository contains 3 projects:
 Note:
 
 1. FileService is a Restful service bean based on Spring framework and can be started as a Java standalone service
-
 2. DVLA-Test can also be started as a standalone application
+3. The location data folder is currently configured as C:\\Temp\\data in application.properties file in FileService project
+   So please copy the data folder under C:\\Temp before executing the test
